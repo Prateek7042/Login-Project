@@ -1,7 +1,5 @@
 # login_project
 
-A new Flutter project.
-
 A new Flutter project that includes a **Login Screen**, **Signup Screen**, and **Validation**.
 
 ## Features
