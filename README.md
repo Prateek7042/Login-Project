@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+A new Flutter project that includes a **Login Screen**, **Signup Screen**, and **Validation**.
+
+## Features
+
+- **Login Screen**: Users can enter their credentials (username and password) to log in.
+- **Signup Screen**: Users can create a new account by entering their details (username, email, password, etc.).
+- **Validation**: Form validation to ensure that users enter correct information during login and signup.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
