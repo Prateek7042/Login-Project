@@ -10,8 +10,7 @@ A new Flutter project that includes a **Login Screen**, **Signup Screen**, and *
 
 ## ScreenShots
 
-![Project Screenshot](assets/Project screenshots.png)
-
+![Project Screenshot](assets/Project%20screenshots.png)
 
 ## Getting Started
 
