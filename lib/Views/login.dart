@@ -40,7 +40,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       width: MediaQuery.of(context).size.width *.6,
                       child: Hero(
                           tag: "image",
-                          child: Image.asset("Assets/Logo.png")),
+                          child: Image.asset("assets/Logo.png")),
                     ),
                     InputField(
                       controller: username,

@@ -50,7 +50,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                       contentPadding: const EdgeInsets.symmetric(horizontal: 10),
                       leading: Hero(
                           tag: "image",
-                          child: Image.asset("Assets/Logo.png")),
+                          child: Image.asset("assets/Logo.png")),
                       title: const Text("REGISTER"),
                       subtitle: const Text("Create new user"),
                     ),
