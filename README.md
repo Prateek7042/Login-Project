@@ -1,4 +1,4 @@
-# login_project
+![Project screenshots](https://github.com/user-attachments/assets/fe5ccbf0-13f5-4939-b49c-557ac107e5b7)# login_project
 
 A new Flutter project that includes a **Login Screen**, **Signup Screen**, and **Validation**.
 
@@ -10,7 +10,7 @@ A new Flutter project that includes a **Login Screen**, **Signup Screen**, and *
 
 ## ScreenShots
 
-![Uploading Project screenshots.png…]()
+(assets/Project screenshots.png)
 
 
 ## Getting Started
