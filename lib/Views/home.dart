@@ -23,7 +23,7 @@ class Home extends StatelessWidget {
                     onPressed: () {
                       context.read<AuthBloc>().add(UnAuthenticatedEvent());
                     },
-                    icon: const Icon(Icons.logout))
+                    icon: const Icon(Icons.logout,color: Colors.redAccent,))
               ],
               title: BlocBuilder<AuthBloc, AuthState>(
                   builder: (context, state) {

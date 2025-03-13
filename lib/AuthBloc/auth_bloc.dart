@@ -1,5 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
+import 'package:login_project/Models/users.dart';
 import '../../DatabaseHelper/repository.dart';
 import '../../Models/users.dart';
 
